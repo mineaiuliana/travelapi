@@ -6,5 +6,5 @@ Commands:
 2) tsc - transpiles typescript files (creates javascript files for typesript files)
 3) npm start - starts server.
 
-For every change done on code step 2 must be rerun. Or you can watch your changes and automically updates javascript files by running
+For every change done on code step 2 must be rerun. Or you can watch your changes and automically update javascript files by running
 tsc -w
