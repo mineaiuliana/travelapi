@@ -1,6 +1,8 @@
 # travelapi
-Travel api with node + express+ typescript
+Travel api with node + express+ typescript.
 
-Commands to be run in different terminals:
-1) tsc -w 
-2) npm start
+Commands:
+1) npm install - installs necessary packages
+2) tsc - transpiles typescript files to javascript files
+3) npm start - starts server.
+For every change done on code step 2 must be rerun.
